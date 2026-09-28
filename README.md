@@ -17,7 +17,7 @@ Java
 Java Swing
 NetBeans
 Apache Ant
-Git & GitHub
+
 
 Project Structure
 ZachsOOPA2/
@@ -40,23 +40,10 @@ Managing a multi-class Java application
 Debugging and testing Java applications
 Using NetBeans and Apache Ant
 Using Git and GitHub 
-Running the Application
-Requirements
-Java JDK
-NetBeans IDE
 
-
-Setup
-Clone this repository.
-Open the project in NetBeans.
-Build the project using NetBeans/Apache Ant.
-Run the application.
-Project Status
-
-This project was developed as part of my Object-Oriented Programming coursework and is included in my software development portfolio.
+This project was developed as part of my Object-Oriented Programming coursework
 
 Author
 
 Zach Watson
 
-GitHub: ZachWatss
