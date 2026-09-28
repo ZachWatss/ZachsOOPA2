@@ -19,13 +19,6 @@ NetBeans
 Apache Ant
 
 
-Project Structure
-ZachsOOPA2/
-├── src/              # Java source code
-├── nbproject/        # NetBeans project configuration
-├── build.xml         # Apache Ant build file
-├── manifest.mf       # Application manifest
-└── .gitignore        # Git ignore configuration
 
 What I Learned
 
